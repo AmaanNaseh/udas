@@ -7,11 +7,13 @@ Steps to run:
 ![Image](https://github.com/user-attachments/assets/1c9f761d-af80-4bc4-9481-2f68152cb6cb)
 
 3. Run backend
-   cd backend
-   npm install
-   npx nodemon server.js OR node server.js
+
+- cd backend
+- npm install
+- npx nodemon server.js OR node server.js
 
 4. Run frontend
-   cd frontend
-   npm install
-   npm run dev
+
+- cd frontend
+- npm install
+- npm run dev
